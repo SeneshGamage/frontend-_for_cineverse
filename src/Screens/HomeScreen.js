@@ -1,7 +1,7 @@
-import React from 'react'
-import Layout from '../Layout/Layout'
 import Banner from '../Components/Home/Banner'
+import Layout from '../Layout/Layout'
 import PopularMovies from '../Components/Home/PopularMovies'
+import React from 'react'
 import Top from '../Components/Home/Top'
 
 function HomeScreen() {
